@@ -1,2 +1,2 @@
 # Podstawa praca w GIT
- lab4
+ lab5
